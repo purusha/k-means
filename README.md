@@ -6,6 +6,6 @@ K-means (MacQueen, 1967) is one of the simplest unsupervised learning algorithms
 Open it.unimi.Start to run the Application GUI.
 
 Use only mouse to interact in the following mode:
- right to generate random date (this object will be clustered)
- left to add singular centroid (the root of each cluster)
- center to run only one phase of the algorythm
+right to generate random date (this object will be clustered)
+left to add singular centroid (the root of each cluster)
+center to run only one phase of the algorythm
