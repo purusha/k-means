@@ -7,8 +7,8 @@ Open it.unimi.Start to run the Application GUI.
 
 Use only mouse to interact:
 
-1) right to generate random date (this object will be clustered)
+1) right ... to generate random data (this objects will be clustered)
 
-2) left to add singular centroid (the root of each cluster)
+2) left ... to add singular centroid (the root of each cluster)
 
-3) center to run only one phase of the algorythm
+3) center ... to run only one phase of the algorythm
